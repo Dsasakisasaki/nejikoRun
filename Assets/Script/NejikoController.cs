@@ -56,7 +56,7 @@ public class NejikoController : MonoBehaviour
         if (Input.GetKeyDown("right")) {
             MoveToRight();
         }
-        if (Input.GetKeyDown("space")) {
+        if (Input.GetKeyDown("up")) {
             Jump();
         }
 
